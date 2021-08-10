@@ -1,0 +1,23 @@
+{
+  "name": "node-guides",
+  "version": "0.0.1",
+  "description": "Node基础知识学习",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/specialCoder/node-guide-chapters.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "specialcoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/specialCoder/node-guide-chapters/issues"
+  },
+  "homepage": "https://github.com/specialCoder/node-guide-chapters#readme"
+}
